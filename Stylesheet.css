@@ -1,0 +1,18 @@
+body{
+   color: blue;
+   background-color: white;
+   font-style: Arial;
+    font-size: 22px;
+   }
+p{color: yellow;
+background-color: black;
+}
+p.malik{
+text-shadow: -1px solid black;
+}
+p.malik1{
+border: 2px solid green;
+}
+p.malik{
+text-aline:  
+    
